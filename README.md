@@ -1,2 +1,2 @@
 # c-programming
-How I started tp programm in C
+How I started programming in C
